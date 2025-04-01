@@ -37,7 +37,6 @@ Neon DB: [console](https://console.neon.tech/)
   WEBHOOK_ERROR_LOGGING=your-discord-server-logs-channel-webhook-url-here
   DATABASE_URL=your-neon-db-database-url-here
   ```
-- You may also configure other settings such as database URLs and API keys.
 
 ## ▶️ Running the Bot
 
